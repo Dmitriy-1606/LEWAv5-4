@@ -22,7 +22,7 @@
     <string name="pref_download_title">Настройки загрузки</string>
     <string name="pref_extras_set_download_directory_title">Каталог загрузки</string>
     <string name="homepage_base_site_navigation">content://com.android.browser.site_navigation/websites</string>
-    <string name="sitenavigation_add">Дробавить сайт</string>
+    <string name="sitenavigation_add">Добавить сайт</string>
     <string name="tab_site_navigation">Навигатор по сайтам</string>
     <string name="permlab_readHomepage">Домашняя страница</string>
     <string name="permdesc_readHomepage">Позволяет приложению считывать информацию о домашней странице в браузере без Вашего вмешательства</string>

@@ -16,7 +16,7 @@
     <string name="app_blocktime_name">Период блокировки</string>
     <string name="intercept_mode_title">Включить перехват</string>
     <string name="intercept_mode_summary">Отклонять телефонные вызовы и фильтровать сообщения в указанное время в соответствии с правилами установки</string>
-    <string name="intercept_rule">Пареметры перехвата</string>
+    <string name="intercept_rule">Параметры перехвата</string>
     <string name="intercept_time">Время блокирования</string>
     <string name="intercept_notification">Уведомления</string>
     <string name="intercept_interruptPhone">Перехват беспокоящих вызовов</string>

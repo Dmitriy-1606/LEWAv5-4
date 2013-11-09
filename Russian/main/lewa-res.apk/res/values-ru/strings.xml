@@ -34,6 +34,8 @@
     <string name="android_lockscreen_access_pattern_detected">@*android:string/lockscreen_access_pattern_detected</string>
     <string name="android_lockscreen_access_pattern_start">@*android:string/lockscreen_access_pattern_start</string>
     <string name="android_usb_storage_activity_title">@*android:string/usb_storage_activity_title</string>
+    <string name="android_lockscreen_password_wrong">@*android:string/lockscreen_password_wrong</string>
+    <string name="android_lockscreen_too_many_failed_attempts_countdown">@*android:string/lockscreen_too_many_failed_attempts_countdown</string>
     <string name="the_spring_festival">Китайский Новый год</string>
     <string name="lantern_festival">Фестиваль фонарей</string>
     <string name="the_dragon_boat_festival">Праздник лодок-драконов</string>
