@@ -722,9 +722,7 @@
     <string name="roaming_reenable_message">Передача данных прекращена, потому что устройство находится за пределами домашней сети, а Интернет-роуминг выключен</string>
     <string name="roaming_turn_it_on_button">Включить</string>
     <string name="roaming_warning">Разрешить Интернет-роуминг? Возможны высокие расходы за его использование</string>
-    <string name="roaming_warning_multiuser">Использование передачи данных в роуминге может привести к большим расходам на его потребление.
-
-Настройки вступят в силу после перезагрузки</string>
+    <string name="roaming_warning_multiuser">Использование передачи данных в роуминге может привести к большим расходам на его потребление. Настройки вступят в силу после перезагрузки</string>
     <string name="roaming_reenable_title">Разрешить интернет-роуминг?</string>
     <string name="networks">Выбор оператора</string>
     <string name="sum_carrier_select">Выберите оператора связи</string>
@@ -1243,7 +1241,6 @@
     <string name="status_meid_number">MEID</string>
     <string name="status_icc_id">ICCID</string>
     <string name="status_network_type">Тип мобильной сети</string>
-
     <string name="status_data_state">Мобильная передача данных</string>
     <string name="status_service_state">Статус сети</string>
     <string name="status_signal_strength">Уровень сигнала</string>

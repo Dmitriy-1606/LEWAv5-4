@@ -119,11 +119,11 @@
         <item>150</item>
     </string-array>
     <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>Пример синтеза речи на английском языке</item>
+        <item>Пример синтеза речи на французском языке</item>
+        <item>Пример синтеза речи на немецком языке</item>
+        <item>Пример синтеза речи на итальянском языке</item>
+        <item>Пример синтеза речи на испанском языке</item>
     </string-array>
     <string-array name="tts_demo_string_langs">
         <item>eng</item>
@@ -185,8 +185,8 @@
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Push-кнопка</item>
-        <item>PIN с обнаруженного устройства</item>
-        <item>PIN этого устройства</item>
+        <item>PIN-код с обнаруженного устройства</item>
+        <item>PIN-код этого устройства</item>
     </string-array>
     <string-array name="wifi_p2p_status">
         <item>Подключено</item>
@@ -343,13 +343,13 @@
         <item>Всегда использовать проверку HDCP</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Отключено</item>
-        <item>0,5x</item>
-        <item>1,0x</item>
-        <item>1,5x</item>
-        <item>2,0x</item>
-        <item>5,0x</item>
-        <item>10,0x</item>
+        <item>Отключение анимации</item>
+        <item>Анимация (масштаб: 0,5x)</item>
+        <item>Анимация (масштаб: 1x)</item>
+        <item>Анимация (масштаб: 1,5x)</item>
+        <item>Анимация (масштаб: 2x)</item>
+        <item>Анимация (масштаб: 5x)</item>
+        <item>Анимация (масштаб: 10x)</item>
     </string-array>
     <string-array name="window_animation_scale_values">
         <item>0</item>
@@ -361,13 +361,13 @@
         <item>10</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Отключено</item>
-        <item>0,5x</item>
-        <item>1,0x</item>
-        <item>1,5x</item>
-        <item>2,0x</item>
-        <item>5,0x</item>
-        <item>10,0x</item>
+        <item>Анимация выключена</item>
+        <item>Анимация (масштаб: 0,5x)</item>
+        <item>Анимация (масштаб: 1x)</item>
+        <item>Анимация (масштаб: 1,5x)</item>
+        <item>Анимация (масштаб: 2x)</item>
+        <item>Анимация (масштаб: 5x)</item>
+        <item>Анимация (масштаб: 10x)</item>
     </string-array>
     <string-array name="transition_animation_scale_values">
         <item>0</item>
@@ -379,13 +379,13 @@
         <item>10</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Отключено</item>
-        <item>0,5x</item>
-        <item>1,0x</item>
-        <item>1,5x</item>
-        <item>2,0x</item>
-        <item>5,0x</item>
-        <item>10,0x</item>
+        <item>Анимация выключена</item>
+        <item>Анимация (масштаб: 0,5x)</item>
+        <item>Анимация (масштаб: 1x)</item>
+        <item>Анимация (масштаб: 1,5x)</item>
+        <item>Анимация (масштаб: 2x)</item>
+        <item>Анимация (масштаб: 5x)</item>
+        <item>Анимация (масштаб: 10x)</item>
     </string-array>
     <string-array name="animator_duration_scale_values">
         <item>0</item>
@@ -401,7 +401,7 @@
         <item>720x480 (MDPI)</item>
         <item>1280x720 (TVDPI)</item>
         <item>1920x1080 (XHDPI)</item>
-        <item>1280x720 + 1920x1080</item>
+        <item>1280x720 и 1920x1080</item>
     </string-array>
     <string-array name="overlay_display_devices_values">
         <item></item>
@@ -477,9 +477,9 @@
         <item>1</item>
     </string-array>
     <string-array name="security_settings_premium_sms_values">
-        <item>Спрашивать</item>
-        <item>Запретить</item>
-        <item>Разрешить</item>
+        <item>Ask</item>
+        <item>Never allow</item>
+        <item>Always allow</item>
     </string-array>
     <string-array name="battery_style_entries">
         <item>Графический</item>
