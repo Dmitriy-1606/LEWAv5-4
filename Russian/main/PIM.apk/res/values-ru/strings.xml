@@ -257,7 +257,6 @@
     <string name="importing_vcard_description">Импорт: %s</string>
     <string name="reading_vcard_failed_title">Ошибка чтения vCard-файла</string>
     <string name="reading_vcard_canceled_title">Чтение данных vCard отменено</string>
-    <string name="importing_vcard_finished_title">Импорт файла vCard %s завершен</string>
     <string name="importing_vcard_canceled_title">Импорт файла \"%s\" отменен</string>
     <string name="vcard_import_will_start_message">Импорт %s начнется в ближайшее время.</string>
     <string name="vcard_import_will_start_message_with_default_name">Файл будет импортирован в ближайшее время.</string>
