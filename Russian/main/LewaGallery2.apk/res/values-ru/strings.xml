@@ -172,7 +172,7 @@
     <string name="toast_video_recording_not_available">Перед использованием видеокамеры остановите другие приложения записи</string>
     <string name="video_bad_performance_auto_stop">Недостаточно памяти, автоматически останавливать запись</string>
     <string name="video_bad_performance_drop_quality">Недостаточно памяти, автоматически снижать качество записи</string>
-    <string name="video_encoder_error">Ошибка кодировшика!</string>
+    <string name="video_encoder_error">Ошибка кодирования!</string>
     <string name="video_recording_error">@string/video_live_effect_error</string>
     <string name="voice_guide">Вы можете сказать \"%1$s\" или \"%2$s\", чтобы сделать снимок</string>
     <string name="video_live_effect_error">Ошибка в процессе записи!</string>
