@@ -119,7 +119,7 @@
     <string name="daily_usage_recommand">(повтор)</string>
     <string name="continue_use">Продолжить использование</string>
     <string name="see_details">Детали</string>
-    <string name="data_default">по умолчанию</string>
+    <string name="data_default">2G/3G</string>
     <string name="show_system_app">Показывать сист. приложения</string>
     <string name="donot_show_system_app">Не показывать сист. приложения</string>
     <string name="daily_remain_suffix">(динамично)</string>
