@@ -3,7 +3,6 @@
     <string-array name="desktop_transition_effect_entries">
         <item>Стандарт</item>
         <item>Отскок</item>
-        <item>Планшет</item>
         <item>Приближение</item>
         <item>Отдаление</item>
         <item>Вращение вверх</item>
@@ -21,7 +20,6 @@
     <string-array name="desktop_transition_effect_values">
         <item>Standard</item>
         <item>OverShoot</item>
-        <item>Tablet</item>
         <item>ZoomIn</item>
         <item>ZoomOut</item>
         <item>RotateUp</item>

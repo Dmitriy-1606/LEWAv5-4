@@ -98,6 +98,11 @@
     <string name="pref_summary_action_updown">Жест вниз, чтобы открыть строку уведомлений</string>
     <string name="pref_title_shake">Группировка встряхиванием</string>
     <string name="pref_summary_shake">Быстрая группировка приложений встряхиванием на текущем рабочем столе</string>
+    <string name="shake_degree_title">Чувствительность встряхивания</string>
+    <string name="shake_degree_summary">Настройка силы встряхивания, необходимой для группировки приложений</string>
+    <string name="shake_degree_gentle">Мягко</string>
+    <string name="shake_degree_common">Средне</string>
+    <string name="shake_degree_force">Сильно</string>
     <string name="pref_title_lewa_lockscreen">Использовать Локскрин Lewa</string>
     <string name="pref_hide_status_bar">Спрятать строку уведомлений при заблокированном экране</string>
     <string name="pref_title_resetlauncher">Сброс настроек лаунчера</string>

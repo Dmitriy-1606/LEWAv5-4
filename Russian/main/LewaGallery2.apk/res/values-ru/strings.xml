@@ -265,7 +265,7 @@
     <string name="pref_camera_picturesize_entry_640x480">VGA</string>
     <string name="pref_camera_picturesize_entry_320x240">QVGA</string>
     <string name="pref_camera_picturesize_entry_2560x1920">5  Мпикс.</string>
-    <string name="pref_camera_picturesize_entry_4096x2304">13 Мпикс.</string>
+    <string name="pref_camera_picturesize_entry_4096x2304">9,5 Мпикс.</string>
     <string name="pref_camera_picturesize_entry_3584x2016">8 Мпикс.</string>
     <string name="pref_camera_picturesize_entry_2880x1620">5 Мпикс.</string>
     <string name="pref_camera_picturesize_entry_2240x1260">3 Мпикс.</string>
@@ -471,6 +471,7 @@
     <string name="album_not_has_image">В этом альбоме нет изображений, выберите другой альбом</string>
     <string name="mirror_click_toast">Изображение можно перевернуть</string>
     <string name="no_other_album">Нет альбома для отображения</string>
+    <string name="ic_more">Еще</string>
     <string name="audio_not_supported">Не удалось проиграть аудио</string>
     <string name="can_not_trim">Возникла ошибка, видео не может быть обрезано</string>
     <string name="settings">Настройки</string>

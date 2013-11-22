@@ -68,6 +68,6 @@
     <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">НОВОЕ: </font></string>
     <string name="perms_description_app">Provided by %1$s.</string>
     <string name="no_permissions">Разрешений не требуется</string>
-    <string name="perm_costs_money">могут взыматься деньги</string>
+    <string name="perm_costs_money">Могут взыматься деньги</string>
     <string name="perms_title_app">Использование %1$s</string>
 </resources>
