@@ -321,7 +321,7 @@
     <string name="display_ungrouped">Все остальные контакты</string>
     <string name="display_all_contacts">Все контакты</string>
     <string name="display_warn_remove_ungrouped">Вместе с группой \"%s\" перестанут синхронизироваться контакты, не добавленные в группы.</string>
-    <string name="account_phone">Только телефон, без синхронизации</string>
+    <string name="account_phone">Телефон, без синхронизации</string>
     <string name="local_device_account_name">Устройство</string>
     <string name="sms_custom">SMS (%s)</string>
     <string name="sms_home">SMS: домашний тел.</string>
@@ -643,8 +643,8 @@
     <string name="account_type_local_phone">Локальная учетная запись телефона</string>
     <string name="local_account_type">Локальная учетная запись</string>
     <string name="local_account_label">Локальная учетная запись</string>
-    <string name="account_type_sim_label">Только SIM-карта, несинхронизированная</string>
-    <string name="account_type_usim_label">Только USIM-карта, не синхронизированная</string>
+    <string name="account_type_sim_label">SIM-карта</string>
+    <string name="account_type_usim_label">USIM-карта</string>
     <string name="removing_group_member">Удаление членов группы…</string>
     <string name="move_contacts_to">Переместить контакты в</string>
     <string name="menu_move_group">Переместить членов группы</string>
@@ -1508,7 +1508,7 @@
     <string name="single_hand_dialpad_open">Включить набор одной рукой</string>
     <string name="single_hand_dialpad_close">Выключить набор одной рукой</string>
     <string name="base_info_title">Базовая информация</string>
-    <string name="add_more_info">Добавить информацию</string>
+    <string name="add_more_info">Данные</string>
     <string name="cancel_modify_title">Отменить сохранение?</string>
     <string name="cancel_modify_message">Изменения не сохранятся</string>
     <string name="calllog_select_title">Выбрать</string>
@@ -1521,7 +1521,7 @@
     <string name="store_in_google_account">Хранить в аккаунте Google</string>
     <string name="position_change_warning">Сохранять только имя и телефон при изменении места хранения на SIM</string>
     <string name="no_content_saved">Информация не сохранена!</string>
-    <string name="add_more_info_title">Добавить информацию</string>
+    <string name="add_more_info_title">Добавить данные</string>
     <string name="no_more_info_add">Нет больше информации для добавления</string>
     <string name="dial_sim_select_title">Вызов</string>
     <string name="sms_sim_select_title">Послать SMS</string>
