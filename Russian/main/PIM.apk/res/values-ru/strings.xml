@@ -1026,7 +1026,7 @@
     <string name="menu_insert_quick_text">Вставить готовый текст</string>
     <string name="select_quick_text">Выберите готовый текст</string>
     <string name="add">Добавить</string>
-    <string name="quick_text_editor">Изменить шаблон текста</string>
+    <string name="quick_text_editor">Изменить шаблон</string>
     <string name="modify_successful">Изменение выполнено!</string>
     <string name="modify_unsuccessful">Изменение не выполнено!</string>
     <string name="delete_successful">Удаление выполнено!</string>
@@ -1372,8 +1372,8 @@
     <string name="message_favorite">Избранные сообщения</string>
     <string name="favorite_from">Избранно:</string>
     <string name="view_original_message">Смотреть оригинальное сообщение</string>
-    <string name="add_quick_text">Добавить быстрый текст</string>
-    <string name="menu_delete_quick_text">Удалить быстрый текст</string>
+    <string name="add_quick_text">Добавить</string>
+    <string name="menu_delete_quick_text">Удалить</string>
     <string name="menu_select_quick_text">Быстрый текст выбран</string>
     <string name="mms_load_contacts_name">﻿...</string>
     <string name="mms_notification_no_subject">Нет темы</string>
