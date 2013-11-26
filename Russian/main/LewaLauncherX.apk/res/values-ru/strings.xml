@@ -131,7 +131,7 @@
     <string name="new_rom_hint">Новый</string>
     <string name="onekey_lockscreen">Локскрин</string>
     <string name="other_widgets">Другие виджеты</string>
-    <string name="admin_description">Разрешать виджетам с правами администратора запускать локскрин при первом запуске</string>
+    <string name="admin_description">Разрешить виджету запускать экран блокировки</string>
     <string name="add_widget">Добавить виджет</string>
     <string name="folder_not_empty_hint">Папка не пустая. Пожалуйста, попробуйте позже после ее очистки</string>
     <string name="image_content">содержание изображения</string>
