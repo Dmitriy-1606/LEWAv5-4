@@ -1352,6 +1352,7 @@
     <string name="alter_title">Полезные советы</string>
     <string name="alter_message">Вы уверены, что хотите удалить это сообщение?</string>
     <string name="alter_positive">Да</string>
+    <string name="importing_vcard_finished_title">Импорт vCard завершен</string>
     <string name="alter_successed_toast">Успешно удалено</string>
     <string name="alter_negtive">Отмена</string>
     <string name="replycontent">Содержимое не может быть пустым</string>
