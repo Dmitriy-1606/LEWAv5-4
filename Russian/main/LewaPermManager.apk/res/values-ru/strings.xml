@@ -76,4 +76,5 @@
     <string name="request_messages_5">Вы все еще уверены, что хотите предоставить права Суперпользователя?</string>
     <string name="request_number">Номер:</string>
     <string name="request_content">Содержание:</string>
+    <string name="empty_text">Нет содержимого</string>
 </resources>

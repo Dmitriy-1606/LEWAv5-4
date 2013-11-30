@@ -239,7 +239,6 @@
     <string name="notifilter_del">Удалить из черного списка</string>
     <string name="notifilter_allow">Разрешить</string>
     <string name="notifilter_denie">Отказать</string>
-    <string name="notifilter_headernotice">" Уведомление(й) заблокировано"</string>
     <string name="notifilter_item_activity">Менеджер уведомлений</string>
     <string name="notifilter_cloudloading">Идет загрузка онлайн-базы...</string>
     <string name="notifilter_cloudlasttime">Последнее обновление:</string>

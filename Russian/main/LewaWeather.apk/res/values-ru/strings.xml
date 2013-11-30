@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">Погода Lewa</string>
     <string name="cancel">Отмена</string>
 
@@ -82,34 +83,12 @@
     <string name="weather_weather_get_failed">Получить прогноз погоды не удалось. Пожалуйста, проверьте подключение к сети</string>
     <string name="weather_close">Закрыть</string>
     <string name="locate_fail">Определение местоположения не удалось</string>
+    <string name="baidu_loc_china">中国</string>
+    <string name="weather_cityadd_ok">Город добавлен успешно</string>
+    <string name="weather_cityadd_error">Не удалось добавить</string>
+    <string name="weather_cityadd_error_1">Город уже есть</string>
+    <string name="weather_unknown">Неизв.</string>
     <string name="mversion">2012.8</string>
     <string name="channel">lewa</string>
     <string name="shared_user_label">www.365rili.com</string>
-    <string name="weather_app_name">Погода Lewa</string>
-    <string name="weather_add_city">Добавить город</string>
-    <string name="weather_find_city_hint">Введите название города</string>
-    <string name="weather_manage_city">Управление городом</string>
-    <string name="weather_manage_hint">Перетащите город для сортировки, первый в списке - город по умолчанию</string>
-    <string name="weather_alert_dialog_ok">ОК</string>
-    <string name="weather_cityset_error">Установить по умолчанию не удалось</string>
-    <string name="weather_cityadd_ok">Город добавлен успешно</string>
-    <string name="weather_cityadd_error">Добавление города не удалось</string>
-    <string name="weather_cityadd_error_1">Указанный город уже есть в списке</string>
-    <string name="weather_caozuo">Операции</string>
-    <string name="weather_alert_dialog_cancel">Отмена</string>
-    <string name="weather_auto_update">"Автоматическое обновление: "</string>
-    <string name="weather_update_frequency">"Частота обновления: "</string>
-    <string name="weather_update_per_hour">час.</string>
-    <string name="weather_setting_default_city">Параметры погоды</string>
-    <string name="weather_refresh_weather">Обновление погоды</string>
-    <string name="weather_config_weather_title">Настройки параметров погоды</string>
-    <string name="weather_config_weather_description">Выбор города для автоматического обновления</string>
-    <string name="weather_citydelete_error_2">Все города не удалены</string>
-    <string name="weather_citydelete_ok">Удалено успешно</string>
-    <string name="weather_citydelete_error">Удаление не удалось</string>
-    <string name="weather_city_auto_update_ok">Успешно установлено</string>
-    <string name="weather_du">°</string>
-    <string name="weather_unknown">Неизв.</string>
-    <string name="weather_last_update_time">Последнее обновление</string>
-    <string name="weather_show_ins">Отображать в главном календаре:</string>
 </resources>

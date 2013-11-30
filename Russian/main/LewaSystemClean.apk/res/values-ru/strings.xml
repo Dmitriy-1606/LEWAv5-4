@@ -89,4 +89,5 @@
     <string name="clean_system_cache_file">"Системный кэш: "</string>
     <string name="clean_calculate_complete_result">%1$s свободного места после очистки ожидается до %2$s</string>
     <string name="storage_install_app_sdcard_summary">" (некоторые приложения не поддерживаются)"</string>
+    <string name="clean_no_item">Выберите хотя бы один элемент</string>
 </resources>
