@@ -1332,7 +1332,7 @@
     <string name="dialer_search_item_misscall_time">гудков: %s</string>
     <string name="dialpad_to_text">вызов</string>
     <string name="call_log_clear_all">Очистить журнал вызова</string>
-    <string name="dialpad_key_fast_not_set">Ключ быстрого запуска не задан</string>
+    <string name="dialpad_key_fast_not_set">Номер телефона не задан</string>
     <string name="mms_select_contacts_group_count">контакты</string>
     <string name="mms_select_contacts_recent_contacts">последние контакты</string>
     <string name="message_compose_menu_resend_label">Перепослать</string>
